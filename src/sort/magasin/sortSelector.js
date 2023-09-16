@@ -1,0 +1,1 @@
+export const sortsSelector = (state) => state.sorts.sorts;
